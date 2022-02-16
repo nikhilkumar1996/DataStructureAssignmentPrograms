@@ -12,7 +12,7 @@ namespace DataStructurePrograms
         {
             Console.WriteLine("Welcome to DataStructure Program");
             Console.WriteLine("1.Balanced Parentheses" +
-                              "\n2.Exit");
+                              "\n2.Exit ");
             bool flag = true;
             while (flag)
             {
